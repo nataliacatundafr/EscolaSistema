@@ -1,5 +1,3 @@
-
-//algoritimo de uma biblioteca virtual, tela de login.
 fun main() {
     println("Login")
     println("Digite senha\n")
